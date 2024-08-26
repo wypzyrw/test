@@ -103,16 +103,16 @@
           <mxGeometry x="840" y="290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-39" value="交换机指标" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="290" width="140" height="120" as="geometry" />
+          <mxGeometry x="330" y="265" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Xt1rwFlgiwMUKymajf74-40" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xt1rwFlgiwMUKymajf74-39">
+        <mxCell id="Xt1rwFlgiwMUKymajf74-40" value="5端口" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xt1rwFlgiwMUKymajf74-39">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xt1rwFlgiwMUKymajf74-41" value="数据流：1560 kb" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xt1rwFlgiwMUKymajf74-39">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        <mxCell id="Xt1rwFlgiwMUKymajf74-41" value="最大转发数据包：1552 位&lt;br&gt;448K 位数据包缓冲存储器 " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xt1rwFlgiwMUKymajf74-39">
+          <mxGeometry y="60" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xt1rwFlgiwMUKymajf74-42" value="7 RMB" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xt1rwFlgiwMUKymajf74-39">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        <mxCell id="Xt1rwFlgiwMUKymajf74-42" value="大小：6*6&lt;br&gt;7 RMB" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xt1rwFlgiwMUKymajf74-39">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-44" value="PHY收发器指标" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="40" width="140" height="120" as="geometry" />
@@ -146,6 +146,9 @@
               <mxPoint x="333" y="-180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Xt1rwFlgiwMUKymajf74-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.252;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xt1rwFlgiwMUKymajf74-8" target="Xt1rwFlgiwMUKymajf74-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
