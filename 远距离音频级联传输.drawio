@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="cl7ZFlmtS4yidlTYS59g">
-    <mxGraphModel dx="1575" dy="3260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1116" dy="2990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,11 @@
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xt1rwFlgiwMUKymajf74-3" target="Xt1rwFlgiwMUKymajf74-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt1rwFlgiwMUKymajf74-60" value="网线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-26">
+          <mxGeometry x="-0.1796" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-3" value="IP175G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="430" width="70" height="40" as="geometry" />
@@ -36,6 +41,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Xt1rwFlgiwMUKymajf74-61" value="网线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-27">
+          <mxGeometry x="0.4252" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-8" value="IP175G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="70" height="40" as="geometry" />
         </mxCell>
@@ -47,6 +57,11 @@
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xt1rwFlgiwMUKymajf74-10" target="Xt1rwFlgiwMUKymajf74-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt1rwFlgiwMUKymajf74-62" value="网线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-25">
+          <mxGeometry x="-0.0081" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-10" value="IP175G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="725" y="430" width="70" height="40" as="geometry" />
@@ -79,6 +94,11 @@
               <mxPoint x="930" y="495" />
               <mxPoint x="777" y="495" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xt1rwFlgiwMUKymajf74-63" value="网线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-24">
+          <mxGeometry x="0.2338" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-23" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
