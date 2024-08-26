@@ -11,10 +11,25 @@
           <mxGeometry x="565" y="360" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xt1rwFlgiwMUKymajf74-3" target="Xt1rwFlgiwMUKymajf74-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="500" />
+              <mxPoint x="243" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-60" value="网线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-26">
           <mxGeometry x="-0.1796" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xt1rwFlgiwMUKymajf74-64" value="网口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-26">
+          <mxGeometry x="0.8401" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xt1rwFlgiwMUKymajf74-66" value="网口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-26">
+          <mxGeometry x="-0.9524" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -36,13 +51,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="208" y="490" />
-              <mxPoint x="100" y="490" />
+              <mxPoint x="208" y="500" />
+              <mxPoint x="100" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-61" value="网线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-27">
           <mxGeometry x="0.4252" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xt1rwFlgiwMUKymajf74-65" value="网口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-27">
+          <mxGeometry x="-0.6958" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -55,11 +75,28 @@
         <mxCell id="Xt1rwFlgiwMUKymajf74-9" value="LAN8720" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="725" y="360" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xt1rwFlgiwMUKymajf74-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xt1rwFlgiwMUKymajf74-10" target="Xt1rwFlgiwMUKymajf74-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Xt1rwFlgiwMUKymajf74-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="475" as="sourcePoint" />
+            <mxPoint x="615" y="475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740.5" y="495" />
+              <mxPoint x="615.5" y="495" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-62" value="网线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-25">
           <mxGeometry x="-0.0081" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xt1rwFlgiwMUKymajf74-67" value="网口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-25">
+          <mxGeometry x="0.8687" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xt1rwFlgiwMUKymajf74-69" value="网口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-25">
+          <mxGeometry x="-0.8889" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -101,11 +138,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Xt1rwFlgiwMUKymajf74-68" value="网口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xt1rwFlgiwMUKymajf74-24">
+          <mxGeometry x="0.8312" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-23" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="895" y="425" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-28" value="服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="510" width="100" height="70" as="geometry" />
+          <mxGeometry x="50" y="530" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Xt1rwFlgiwMUKymajf74-30" value="STM32H743VIH6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" width="100" height="40" as="geometry" />
