@@ -255,12 +255,6 @@
         <mxCell id="Xt1rwFlgiwMUKymajf74-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.252;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xt1rwFlgiwMUKymajf74-8" target="Xt1rwFlgiwMUKymajf74-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xt1rwFlgiwMUKymajf74-70" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="300" as="sourcePoint" />
-            <mxPoint x="490" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
